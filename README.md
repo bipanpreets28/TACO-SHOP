@@ -1,25 +1,17 @@
-# "HTML Project for Beginners"
+A lightweight, multi-page website built for a fictional local eatery, The Little Taco Shop. This project focuses on semantic HTML structure and clean document hierarchy, paired with minimal CSS for baseline styling and layout.
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+Pages & Features
 
-This repository shares the starter code for the [YouTube Tutorial](https://youtu.be/T5PD8ofhiug). 
+Home & Menu (#menu): An overview of the shop, including an in-page navigation link directly to the food menu and pricing.
 
-**Your Challenge:** Utilize the knowledge you have gained from the [HTML for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) tutorial series to build a website for The Little Taco Shop. 
+ShopHours: A dedicated page displaying store opening times and weekly schedules.
 
-**Directions:**
+Contact Us: A functional contact form alongside location and inquiry details.
 
-- There are images of the 3 web pages you need to build in the examples folder. Use them as references for what you build.
+Semantic Layout: Heavy use of native HTML elements like <header>, <nav>, <main>, <article>, and <footer> for clean markup and accessibility.
 
-- You should name your files: index.html, hours.html, and contact.html
+Tech Stack
 
-- There is minimal CSS already available in css/styles.css. You need to link that file to your HTML files. 
+HTML5 (~95%): Page structure, content semantics, tables, forms, and internal anchor navigation.
 
-- All images are provided in the img folder.
-
-- If you need to find taco emojis, try [Emojipedia](https://emojipedia.org/taco/). 
-
-- A favicon is already included. You'll need to add it in the head section of each page.
-
-### Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+CSS3 (~5%): Minimal styling for core typography, spacing, and basic alignment.
