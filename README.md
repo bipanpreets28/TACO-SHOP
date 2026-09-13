@@ -14,4 +14,4 @@ Tech Stack
 
 HTML5 (~95%): Page structure, content semantics, tables, forms, and internal anchor navigation.
 
-CSS3 (~5%): Minimal styling for core typography, spacing, and basic alignment.
+CSS3 (~5%): Minimal styling for core typography, spacing, and basic alignment  .
